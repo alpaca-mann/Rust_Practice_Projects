@@ -1,4 +1,4 @@
-A simple (hopefully) Console Todo app in Rust.
+An attempt to make a simple Console Todo app in Rust.
 
 Todo
 1. Make some plans.
