@@ -1,3 +1,3 @@
-#Rust Practice Projects
+<h1>Rust Practice Projects</h1>
 
-1. terminalToDo - Planning.
+<p>Personal practice projects for learning rust</p>
