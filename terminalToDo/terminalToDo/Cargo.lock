@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "terminalToDo"
+name = "terminal_to_do"
 version = "0.1.0"
